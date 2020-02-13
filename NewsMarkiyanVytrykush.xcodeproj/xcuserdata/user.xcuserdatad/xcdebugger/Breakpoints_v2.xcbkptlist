@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7FC6B41-4EFF-4DB0-BE9D-D3002888B351"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17894429-9C04-4366-941B-F5ED4D133207"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - 10081a8887557764"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.parameters.getter : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - 4fd9a6eee2bb0b78"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.parameters.setter : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - e36b7856c7fafa69"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.parameters.modify : Swift.Dictionary&lt;Swift.String, Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - 945d5095633f42e5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.parameters.modify : Swift.Dictionary&lt;Swift.String, Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - f1ff2d15ba154576"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NewsMarkiyanVytrykush.NewsViewController"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "771">
+               </Location>
+               <Location
+                  uuid = "8E33FB06-BC4C-485F-8B07-FA068BAD4E33 - 6130c6b92649aa38"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsMarkiyanVytrykush.NewsViewController&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "702">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "PopUpViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - a3dde81133c9573d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.changedParameters.getter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - 34185822681c2359"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.changedParameters.setter : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - e32e037563e6e82a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.changedParameters.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - cb955d950cfcb275"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.changedParameters.modify : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - 85bdc8c663b0b655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NewsMarkiyanVytrykush.PopUpViewController"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "481">
+               </Location>
+               <Location
+                  uuid = "FA8A3C80-82AE-4A78-9F6A-CBE60696E899 - c7cc691631f2b9fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsMarkiyanVytrykush.PopUpViewController&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "419">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "PopUpViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - 1a31c8ed9a884b38"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.filterValuesArray.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - 685d569cb24ac74c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.filterValuesArray.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - 23e8235134b3a43f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.filterValuesArray.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - 86f31a781bdca267"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.filterValuesArray.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - 85bdc8c663b0b655"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NewsMarkiyanVytrykush.PopUpViewController"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "659">
+               </Location>
+               <Location
+                  uuid = "E2DD1812-D03B-4380-ADA9-01D968838B9B - c7cc691631f2b9fb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsMarkiyanVytrykush.PopUpViewController&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "597">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "PopUpViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - ab891b1c3e2f057d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.newParameter.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - 936ab00b8cb94a81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.newParameter.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - 2649b57ee4d85970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.newParameter.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - fc4fc81eec1606f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.newParameter.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - 85bdc8c663b0b655"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NewsMarkiyanVytrykush.PopUpViewController"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "565">
+               </Location>
+               <Location
+                  uuid = "7A019FC8-37C9-4822-9CFC-753EAAE7ADE5 - c7cc691631f2b9fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.PopUpViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsMarkiyanVytrykush.PopUpViewController&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/PopUpViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "503">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E903CAAE-EA3B-4179-A181-141DA2517091"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "NewsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - 6ca9e00508cd2148"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.searchBar.getter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - 568738e0338b4d5c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.searchBar.setter : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - ee73b0afa9f8864d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - 6feb9ad4e6a26696"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.searchBar.modify : Swift.Optional&lt;__C.UISearchBar&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - f1ff2d15ba154576"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; NewsMarkiyanVytrykush.NewsViewController"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "E903CAAE-EA3B-4179-A181-141DA2517091 - 6130c6b92649aa38"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NewsMarkiyanVytrykush.NewsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NewsMarkiyanVytrykush.NewsViewController&gt;"
+                  moduleName = "NewsMarkiyanVytrykush"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/skrins/NewsMarkiyanVytrykush/NewsMarkiyanVytrykush/ViewControllers/ShowNewsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
